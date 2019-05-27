@@ -1,0 +1,6 @@
+diff a/（＾ω＾）.txt b/（＾ω＾）.txt	(rejected hunks)
+@@ -1,2 +1,2 @@
+ (/^��^/)�Ð�ꂩ�瓦�����...
+-        �Ð�ꂪ�������c
+\ No newline at end of file
++(/^��^/)�Ȃł��c
